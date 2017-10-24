@@ -22,14 +22,13 @@ Among other things, the students recorded the type of position a player had on t
 Line players are on the offensive or defensive line.  They need to be a certain kind of speed, but they must also be quite big and strong.  Skill players do a lot of running and catching:  they are the quarterback, running backs, receivers, etc.
 
 >We have to identify,classify and analyze our research question and to explain further what tools we use on the data in this question.
-
 OUr research question is:
-
 >Who does more pushups, on average: a line player or a skill player?
 
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+>On this method we will both use graphical method and a numerical method to show our the difference of data which is "pushups".Then we will explain the data that we came up along with graphical data and numerical data.We will also use a different branches for each major section.
 
 
 # Results
