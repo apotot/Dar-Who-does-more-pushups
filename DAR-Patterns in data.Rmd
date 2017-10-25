@@ -93,9 +93,10 @@ summary(pushups)
 t.test(pushups$pushups,pushups$weight)
 ```
 
->Our p-value is not equal to 0.Which means that there is a big difference our data.
-The mean of our x and y are correct based on the summary of our pushups and weight of our graphical as well as the numerical of our data.
+>Our p-value is not equal to 0.Which means that there is a big difference our data.the t-value is -18.7 and the df=45.908.
+The mean of our x=41.03333 and y=213.66667 are correct based on the summary of pushups and weight of the graphical as well as the numerical data.
 
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
 
+>After viewing the results graphically,numerically and running the ttest, I therefore conclude that the skill player can do more push ups than the skill player.It is affected by the weight of each person.As I studied the difference,using the 3 variables, the weight,pushups and position, I could say that the more a person weigh a lot the more he can`t do more pushups. However, Line players have a highest body mass, Our research question is who does more pushups where based on our data,the skill player did most of the pushups.
